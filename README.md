@@ -45,9 +45,8 @@ Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaur
 
 ## :sparkles: Features ##
 
-:Puedes buscar las cevicherías que hay cerca\
-:Lista de paradores de buses\
-:Las pollerías que hay
+:Puedes ver en el mapa los restaurantes cercas que hay en san miguel
+:Tienes un filtro para pollerías, cevicherías y otros.
 
 ## :rocket: Technologies ##
 
