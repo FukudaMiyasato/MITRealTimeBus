@@ -41,7 +41,7 @@
 
 ## :dart: About ##
 
-Este es un proyecto basado en el Real Traking bus, adaptado para mostrar lugares relevantes en el distrito de San Miguel, en Lima Perú.
+Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaurantes por tipo en el distrito de San Miguel, en Lima Perú.
 
 ## :sparkles: Features ##
 
