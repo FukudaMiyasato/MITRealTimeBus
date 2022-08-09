@@ -11,13 +11,23 @@
 </head>
 
 <body>
-    <div id="map"></div>
-    <div class="map-overlay top">
-        <button style="font-size: 2em" onclick="move()">
-            Show stops between MIT and Harvard
+    <div id="fondo">
+ <div id="container">
+    <div class='map-overlay top'>
+        <h1>SAN MIGUEL</h1>
+        <select id='selectRestaurant'>
+            <option value="polleria">Pollerías</option>
+            <option value="cevicheria">Cevicherías</option>
+            <option value="otros">Otros</option>
+        </select>
+        <button onclick="startSearch()">
+            Mostrar Restaurantes
         </button>
     </div>
-    <script src="./mapanimation.js"></script>
+    <div id="map"></div>
+</div>
+</div>
+    
+<script src="./mapanimation.js"></script>
 </body>
-
 </html>

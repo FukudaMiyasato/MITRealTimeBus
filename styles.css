@@ -1,17 +1,44 @@
 body {
     margin: 0;
     padding: 0;
-  }
-  #map {
-    position: absolute;
-    top: 0;
-    bottom: 0;
+    text-align: center;
+    height: 100%;
     width: 100%;
+    background-size: 100% 100%;
+  }
+  #fondo{ 
+    background-image: url(./images/fondo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position:absolute;
+    height: 100%;
+    width: 100%;
+
+  }
+
+  #map {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
   }
   
   .map-overlay {
-    position: absolute;
     left: 0;
     padding: 10px;
+  }
+  .map-overlay select{
+    width: 200px;
+  }
+  .map-overlay select,.map-overlay option,.map-overlay button{
+    font-size: 1em;
+    height: 45px;
+  }
+  #container{
+    background-color: rgba(201, 76, 76, 0.3);
+    display: inline-block;
+    width: 550px;
+    padding: 10px 2px 20px 2px;
+    margin-top: 15px;
+
   }
   
