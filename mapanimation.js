@@ -59,6 +59,9 @@
           break;
       }
     move(stops);
+  } 
+  function prueba(){
+    console.log("hey");
   }
   function move() {
     // TODO: move the marker on the map every 1000ms. Use the function marker.setLngLat() to update the marker coordinates
