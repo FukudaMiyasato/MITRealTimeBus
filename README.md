@@ -66,16 +66,8 @@ Antes de empezar :checkered_flag:, necesitas tener [Git](https://git-scm.com) y 
 
 ```bash
 # Clone this project
-$ git clone https://github.com/fukudamiyasato/proyectosmit
+$ git clone https://github.com/fukudamiyasato/MITRealTimeBus
 
-# Access
-$ cd proyectosmit
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
