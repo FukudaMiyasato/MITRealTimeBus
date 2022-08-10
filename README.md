@@ -45,8 +45,8 @@ Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaur
 
 ## :sparkles: Features ##
 
-:Puedes ver en el mapa los restaurantes cercas que hay en san miguel
-:Tienes un filtro para pollerías, cevicherías y otros.
+:heavy_check_mark: Puedes ver en el mapa los restaurantes cercas que hay en san miguel
+:heavy_check_mark: Tienes un filtro para pollerías, cevicherías y otros.
 
 ## :rocket: Technologies ##
 
@@ -58,7 +58,9 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-No es necesario ningún requerimiento previo
+
+Antes de empezar :checkered_flag:, necesitas tener [Git](https://git-scm.com) y [Node](https://nodejs.org/en/) instalado.
+
 
 ## :checkered_flag: Starting ##
 
