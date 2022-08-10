@@ -1,3 +1,5 @@
+![Screenshot](portada.png)
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
 
@@ -34,20 +36,19 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/fukudamiyasato" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaurantes por tipo en el distrito de San Miguel, en Lima Perú.
+Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaurantes por tipo en el distrito de San Miguel, en Lima Perú para una tarea del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITRealTimeBus" target="_blank">Link</a> ) 
 
 ## :sparkles: Features ##
 
-:Puedes buscar las cevicherías que hay cerca\
-:Lista de paradores de buses\
-:Las pollerías que hay
+:heavy_check_mark: Puedes ver en el mapa los restaurantes cercas que hay en san miguel\
+:heavy_check_mark: Tienes un filtro para pollerías, cevicherías y otros.
 
 ## :rocket: Technologies ##
 
@@ -59,22 +60,16 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-No es necesario ningún requerimiento previo
+
+Antes de empezar :checkered_flag:, necesitas tener [Git](https://git-scm.com) y [Node](https://nodejs.org/en/) instalado.
+
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/fukudamiyasato/proyectosmit
+$ git clone https://github.com/fukudamiyasato/MITRealTimeBus
 
-# Access
-$ cd proyectosmit
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
