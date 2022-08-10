@@ -1,3 +1,5 @@
+![Screenshot](portada.png)
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
 
@@ -41,7 +43,7 @@
 
 ## :dart: About ##
 
-Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaurantes por tipo en el distrito de San Miguel, en Lima Perú.
+Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaurantes por tipo en el distrito de San Miguel, en Lima Perú para una tarea del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITRealTimeBus" target="_blank">Link</a> ) 
 
 ## :sparkles: Features ##
 
