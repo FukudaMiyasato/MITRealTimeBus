@@ -45,7 +45,7 @@ Este es un proyecto basado en el Real Traking bus, adaptado para mostrar restaur
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Puedes ver en el mapa los restaurantes cercas que hay en san miguel/
+:heavy_check_mark: Puedes ver en el mapa los restaurantes cercas que hay en san miguel\
 :heavy_check_mark: Tienes un filtro para pollerías, cevicherías y otros.
 
 ## :rocket: Technologies ##
